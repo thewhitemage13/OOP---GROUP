@@ -1,0 +1,19 @@
+﻿  GROUP - OOP.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "GROUP%20-%20OOP.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(74,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(80,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(134,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(148,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(166,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(179,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(197,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(213,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(223,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(161): warning C4715: Student::GePracticRatesCount: значение возвращается не при всех путях выполнения
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(192): warning C4715: Student::GetHomeWorkRatesCount: значение возвращается не при всех путях выполнения
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(236): warning C4715: Student::GetExamRatesCount: значение возвращается не при всех путях выполнения
+  GROUP - OOP.vcxproj -> D:\C++\C++ OOP\GROUP - OOP\x64\Debug\GROUP - OOP.exe
